@@ -1,4 +1,4 @@
-FROM nginx
+FROM nginx:alpine
 
 MAINTAINER Lifefarmer <dickwu@vip.qq.com>
 
